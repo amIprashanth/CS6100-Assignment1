@@ -9,17 +9,17 @@ The input tree is given from stdin. For example, a simple path with 7 vertices c
 
 7
 
-1   2
+1       2
 
-2   3
+2       3
 
-3   4
+3       4
 
-5   4
+5       4
 
-6   5
+6       5
 
-6   7
+6       7
 
 Upon giving the input, the longest path, maximum ind. set and vertex cover are printed to stdout. 
 
