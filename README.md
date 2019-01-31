@@ -6,9 +6,10 @@ Working C++ code with longest path, independent set and vertex cover functions i
 The input tree is given from stdin. For example, a simple path with 7 vertices can be given as follows:
 
 7
+
 1 2
 2 3
-3 
+3 4
 5 4
 6 5
 6 7
