@@ -8,7 +8,7 @@ The input tree is given from stdin. For example, a simple path with 7 vertices c
 7
 1 2
 2 3
-3 4
+3 
 5 4
 6 5
 6 7
